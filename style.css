@@ -1,5 +1,5 @@
 *{
-    background: radial-gradient( #D98936, #D9A036, #D9B97E);
+    background: linear-gradient( #D98936, #D9A036, #D9B97E);
 }
 p {
     font-family: 'Times New Roman', Times, serif;
