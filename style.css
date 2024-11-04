@@ -1,12 +1,12 @@
 *{
-    background-color: black;
+    background-color:rgb(126, 107, 78);
 }
 p {
     font-family: 'Times New Roman', Times, serif;
-    color: rgb(255, 0, 0);
+    color: rgb(126, 87, 30);
 }
 
 h1 {
-  color: crimson;
+  color: rgb(119, 78, 40);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
