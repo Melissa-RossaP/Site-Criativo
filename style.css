@@ -1,17 +1,6 @@
 
 body{
+    color: #362919;
+    font-family: 'Courier New', Courier, monospace;
     background-color: #695034;
 }
-
-
-p {
-    font-family: 'Times New Roman', Times, serif;
-    color: #362919;
-}
-
-h1 {
-  color: #362919;
-    font-family:'Courier New', Courier, monospace;
-
-}
-
