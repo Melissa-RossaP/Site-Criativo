@@ -1,6 +1,4 @@
-*{
-    background: linear-gradient( #D98936, #D9A036);
-}
+
 p {
     font-family: 'Times New Roman', Times, serif;
     color: rgb(126, 87, 30);
@@ -10,3 +8,15 @@ h1 {
   color: rgb(119, 78, 40);
     font-family:'Courier New', Courier, monospace;
 }
+
+.linear-gradient {
+    height: 200px;
+    background: linear-gradient(to right, #ff0000, #0000ff);
+}
+.radial-gradient {
+    height: 200px;
+    background: radial-gradient(circle, #ff0000, #0000ff);
+}
+.conic-gradient {
+    height: 200px;
+    background: conic-gradient(from 0deg, #ff0000, #00ff00, #0000ff);
