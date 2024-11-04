@@ -16,6 +16,6 @@ header{
     text-align: center;
 }
 
-video {
-    margin: 50px;
+section.videos{
+    margin: 80px;
 }
