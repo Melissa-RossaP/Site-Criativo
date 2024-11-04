@@ -5,11 +5,11 @@ p {
 }
 
 h1 {
-  color: rgb(119, 78, 40);
+  color: rgb(119, 71, 25);
     font-family:'Courier New', Courier, monospace;
 
 }
 
 *{
-    background: linear-gradient( #D98936, #D9A036);
+    background-color: #695034;
 }
