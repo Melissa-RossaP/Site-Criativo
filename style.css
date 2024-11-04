@@ -1,5 +1,5 @@
 *{
-    background: linear-gradient( circle, #D98936, #D9A036, #D9B97E);
+    background: radial-gradient(circle, #D98936, #D9A036, #D9B97E);
 }
 p {
     font-family: 'Times New Roman', Times, serif;
