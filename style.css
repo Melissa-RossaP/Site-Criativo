@@ -13,18 +13,3 @@ h1 {
 *{
     background: linear-gradient( #D98936, #D9A036);
 }
-
-.sidebar {
-    background-color: #D9B071;            
-    width: 80px;                          
-    height: 100vh;                        
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding-top: 20px;
-    position: fixed;                      
-    top: 0;
-    left: 0;
-    box-shadow: 2px 0 5px #7a5f36; 
-    z-index: 1000;                        
-  }
