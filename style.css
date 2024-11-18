@@ -4,6 +4,7 @@ body{
     background: rgb(68, 44, 17);
     margin: 0px;
     font-family:'Courier New', Courier, monospace;
+    font-color:rgb(255, 255, 255)
     margin-bottom: 100px;
 }
 
@@ -54,10 +55,10 @@ height: 200px;
 
 .categoria-videos img:hover{
 opacity: 1.0;
-border: #362919;
+border: #c29968;
 }
 
 .categoria h2{
-    color: #362919;
+    color: #b49671;
 }
 
